@@ -164,3 +164,5 @@ If you have any questions about PersonalFinance or would like to share with me w
 If you'd like to support my efforts, either help me out by contributing to the package or [Sponsor Me](https://github.com/sponsors/JerBouma).
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JerBouma/PersonalFinance&type=Date)](https://star-history.com/#JerBouma/PersonalFinance&Date)
+
+Maddie H
